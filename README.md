@@ -63,9 +63,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-## Resume Data in Kotlin Classes
+## Hey For Fun i have translate info in Kotlin Class. 
 
-You can use the following Kotlin classes to represent the resume data:
 
 ```kotlin
 data class Resume(
