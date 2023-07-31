@@ -1,73 +1,83 @@
-### Hi there 👋
+# My Resume
 
-data class Vipul(
-    val name: String = "Vipul Damor",
-    val tagline: String = "Passionate Android Developer",
-    val email: String = "vipuldamor@gmail.com",
-    val phoneNumber: String = "+91 8849615440",
-    val address: String = "Rajkot, India",
-    val os: List<String> = listOf("Android"),
-    val languages: List<String> = listOf("Kotlin", "Java","Dart"),
-    val frameworks: List<String> = listOf("Jetpack Compose", "MVVM", "Clean Architecture"),
-    val tools: List<String> = listOf("Git", "Pipelines", "Code Coverage"),
-    val experience: List<Experience> = listOf(
-        Experience(
-            title = "Senior Android Developer",
-            company = "Awesome Tech Solutions",
-            duration = "2018 - Present",
-            description = "Developed and maintained Android applications."
-        ),
-        Experience(
-            title = "Flutter Developer",
-            company = "Fantastic Apps Studio",
-            duration = "2016 - 2018",
-            description = "Built cross-platform mobile apps using the Flutter framework."
-        )
-    ),
-    val projects: List<Project> = listOf(
-        Project(
-            name = "Project A",
-            description = "An Android app for task management.",
-            url = "https://example.com/projectA"
-        ),
-        Project(
-            name = "Project B",
-            description = "A Flutter app for finance tracking.",
-            url = "https://example.com/projectB"
-        )
-    ),
-    val socialLinks: List<SocialLink> = listOf(
-        SocialLink(
-            platform = "LinkedIn",
-            url = "https://www.linkedin.com/in/johndoe"
-        ),
-        SocialLink(
-            platform = "GitHub",
-            url = "https://github.com/johndoe"
-        ),
-        SocialLink(
-            platform = "Twitter",
-            url = "https://twitter.com/johndoe"
-        )
-    )
+## Introduction
+
+This is my resume showcasing my skills, experience, and projects.
+
+## Personal Information
+
+- **Name:** John Doe
+- **Tagline:** Passionate Software Engineer
+- **Email:** johndoe@example.com
+- **Phone:** (123) 456-7890
+- **Address:** 123 Main Street, City, Country
+- **Website:** [www.johndoe.com](https://www.johndoe.com)
+
+## Skills
+
+- **OS:** Android
+- **Languages:** Kotlin, Java, Flutter, Dart
+- **Frameworks:** Jetpack Compose, MVVM, Clean Architecture
+- **Tools:** Git, Pipelines, Code Coverage
+
+## Experience
+
+### Senior Android Developer
+**Awesome Tech Solutions** | 2018 - Present
+
+Developed and maintained Android applications.
+
+### Flutter Developer
+**Fantastic Apps Studio** | 2016 - 2018
+
+Built cross-platform mobile apps using the Flutter framework.
+
+## Projects
+
+### Project A
+An Android app for task management.
+[Link](https://example.com/projectA)
+
+### Project B
+A Flutter app for finance tracking.
+[Link](https://example.com/projectB)
+
+## Social Links
+
+- **LinkedIn:** [www.linkedin.com/in/johndoe](https://www.linkedin.com/in/johndoe)
+- **GitHub:** [github.com/johndoe](https://github.com/johndoe)
+- **Twitter:** [twitter.com/johndoe](https://twitter.com/johndoe)
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+---
+
+## Resume Data in Kotlin Classes
+
+You can use the following Kotlin classes to represent the resume data:
+
+```kotlin
+data class Resume(
+    val name: String = "John Doe",
+    val tagline: String = "Passionate Software Engineer",
+    // ... (other properties)
 )
 
 data class Experience(
     val title: String,
     val company: String,
-    val duration: String,
-    val description: String
+    // ... (other properties)
 )
 
 data class Project(
     val name: String,
     val description: String,
-    val url: String
+    // ... (other properties)
 )
 
 data class SocialLink(
     val platform: String,
     val url: String
 )
-
-
