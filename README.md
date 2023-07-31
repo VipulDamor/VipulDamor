@@ -2,7 +2,7 @@
 
 ## Introduction
 
-hey this is me passionate Android Developer 
+I am a skilled Android Developer with 6+ years of experience. My expertise includes Android, Flutter, Kotlin, Java, XML, Jetpack Compose, MVVM, Clean Architecture, and Dagger Hilt. I am passionate about creating robust and user-friendly mobile applications that deliver exceptional user experiences. Let's discuss more if you have any exciting opportunities for me!
 
 ## Personal Information
 
@@ -67,8 +67,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 
 ```kotlin
-data class Resume(
+data class AboutMe(
     val name: String = "Vipul Damor",
+    val about : String = "About Me
+                          I am a skilled Android Developer with 6+ years of experience. My expertise includes Android, Flutter, Kotlin, Java, XML, Jetpack                                   Compose, MVVM, Clean Architecture, and Dagger Hilt. I am passionate about creating robust and user-friendly mobile applications that                              deliver exceptional user experiences. Let's discuss more if you have any exciting opportunities for me!"
     val tagline: String = "Passionate Android Developer",
     val email: String = "vipuldamor@gmail.com",
     val address: String = "Rajkot, India",
