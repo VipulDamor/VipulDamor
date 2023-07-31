@@ -1,52 +1,61 @@
-# My Resume
+# About Me
 
 ## Introduction
 
-This is my resume showcasing my skills, experience, and projects.
+hey this is me passionate Android Developer 
 
 ## Personal Information
 
-- **Name:** John Doe
-- **Tagline:** Passionate Software Engineer
-- **Email:** johndoe@example.com
-- **Phone:** (123) 456-7890
-- **Address:** 123 Main Street, City, Country
-- **Website:** [www.johndoe.com](https://www.johndoe.com)
+- **Name:** Vipul Damor
+- **Tagline:** Passionate Android Developer
+- **Email:** vipuldamor@gmail.com
+
 
 ## Skills
 
 - **OS:** Android
-- **Languages:** Kotlin, Java, Flutter, Dart
-- **Frameworks:** Jetpack Compose, MVVM, Clean Architecture
+- **Languages:** Kotlin, Java,Dart
+- **Frameworks:** Jetpack Compose,Flutter, MVVM, Clean Architecture
 - **Tools:** Git, Pipelines, Code Coverage
 
 ## Experience
 
-### Senior Android Developer
-**Awesome Tech Solutions** | 2018 - Present
+### Android Developer & Flutter Developer
+**Eryushion Techsol Pvt. Ltd.** | Aug 2018 - Present
 
-Developed and maintained Android applications.
+Developed and maintained Android applications.Built cross-platform mobile apps using the Flutter framework.
 
-### Flutter Developer
-**Fantastic Apps Studio** | 2016 - 2018
+### Android Developer
+**Grubbrr inc** | Nov 2017 - jul 2018
 
-Built cross-platform mobile apps using the Flutter framework.
+Developed and maintained Android applications
+
+### Android Developer
+**Poojara Telecom Pvt. Ltd.** | Jul 2016 - Oct 2017
+
+Developed and maintained Android applications
+
+
+### Android Developer
+**The DynamicIT** | Jan 2016 - Apr 2016
+
+Android Trainee also Developed and maintained Android applications
+
 
 ## Projects
 
-### Project A
-An Android app for task management.
-[Link](https://example.com/projectA)
+### Rajkot Kitchenware
+An Android app for selling Kitchenware products
 
-### Project B
-A Flutter app for finance tracking.
-[Link](https://example.com/projectB)
+### HOCL
+An Android app for selling MobileProducts, and Employee Management
+
 
 ## Social Links
 
-- **LinkedIn:** [www.linkedin.com/in/johndoe](https://www.linkedin.com/in/johndoe)
-- **GitHub:** [github.com/johndoe](https://github.com/johndoe)
-- **Twitter:** [twitter.com/johndoe](https://twitter.com/johndoe)
+- **LinkedIn:** [www.linkedin.com/in/vipuldamor](https://www.linkedin.com/in/vipuldamor)
+- **GitHub:** [github.com/VipulDamor](https://github.com/VipulDamor)
+- **Twitter:** [twitter.com/damorvips](https://twitter.com/damorvips)
 
 ## License
 
@@ -60,24 +69,83 @@ You can use the following Kotlin classes to represent the resume data:
 
 ```kotlin
 data class Resume(
-    val name: String = "John Doe",
-    val tagline: String = "Passionate Software Engineer",
-    // ... (other properties)
+    val name: String = "Vipul Damor",
+    val tagline: String = "Passionate Android Developer",
+    val email: String = "vipuldamor@gmail.com",
+    val address: String = "Rajkot, India",
+    val os: List<String> = listOf("Android"),
+    val languages: List<String> = listOf("Kotlin", "Java","Dart"),
+    val frameworks: List<String> = listOf("Jetpack Compose",Flutter,"MVVM", "Clean Architecture"),
+    val tools: List<String> = listOf("Git", "Pipelines", "Code Coverage"),
+    val experience: List<Experience> = listOf(
+        Experience(
+            title = "Android Developer And Flutter Developer",
+            company = "Eryushion Techsol Pvt. Ltd.",
+            duration = "Aug 2018 - Present",
+            description = "Developed and maintained Android applications.Built cross-platform mobile apps using the Flutter framework."
+        ),
+        Experience(
+            title = "Android Developer",
+            company = "Grubbrr inc",
+            duration = "Nov 2017 - jul 2018",
+            description = "Developed and maintained Android applications"
+        ),
+         Experience(
+            title = "Android Developer",
+            company = "Poojara Telecom Pvt. Ltd.",
+            duration = "Jul 2016 - Oct 2017",
+            description = "Developed and maintained Android applications"
+        ),
+         Experience(
+            title = "Android Developer",
+            company = "The DynamicIT",
+            duration = "Jan 2016 - Apr 2016",
+            description = "Android Trainee also Developed and maintained Android applications"
+        )
+    ),
+    val projects: List<Project> = listOf(
+        Project(
+            name = "Rajkot Kitchenware",
+            description = "An Android app for selling Kitchenware products",
+            url = ""
+        ),
+        Project(
+            name = "HOCL",
+            description = "An Android app for selling MobileProducts, and Employee Management",
+            url = ""
+        )
+    ),
+    val socialLinks: List<SocialLink> = listOf(
+        SocialLink(
+            platform = "LinkedIn",
+            url = "https://www.linkedin.com/in/vipuldamor"
+        ),
+        SocialLink(
+            platform = "GitHub",
+            url = "https://github.com/VipulDamor"
+        ),
+        SocialLink(
+            platform = "Twitter",
+            url = "https://twitter.com/damorvips"
+        )
+    )
 )
 
 data class Experience(
     val title: String,
     val company: String,
-    // ... (other properties)
+    val duration: String,
+    val description: String
 )
 
 data class Project(
     val name: String,
     val description: String,
-    // ... (other properties)
+    val url: String
 )
 
 data class SocialLink(
     val platform: String,
     val url: String
 )
+
