@@ -16,7 +16,7 @@ I am a skilled Android Developer with 6+ years of experience. My expertise inclu
 - **OS:** Android
 - **Languages:** Kotlin, Java,Dart
 - **Frameworks:** Jetpack Compose,Flutter, MVVM, Clean Architecture
-- **Tools:** Git, Pipelines, Code Coverage
+- **Tools:** Git, CI/CD, Code Coverage
 
 ## Experience
 
@@ -77,7 +77,7 @@ data class AboutMe(
     val os: List<String> = listOf("Android"),
     val languages: List<String> = listOf("Kotlin", "Java","Dart"),
     val frameworks: List<String> = listOf("Jetpack Compose",Flutter,"MVVM", "Clean Architecture"),
-    val tools: List<String> = listOf("Git", "Pipelines", "Code Coverage"),
+    val tools: List<String> = listOf("Git", " CI/CD", "Code Coverage"),
     val experience: List<Experience> = listOf(
         Experience(
             title = "Android Developer And Flutter Developer",
