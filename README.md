@@ -1,8 +1,11 @@
 # About Me
 
-## Introduction
 
-I am a skilled Android Developer with 6+ years of experience. My expertise includes Android, Flutter, Kotlin, Java, XML, Jetpack Compose, MVVM, Clean Architecture, and Dagger Hilt. I am passionate about creating robust and user-friendly mobile applications that deliver exceptional user experiences. Let's discuss more if you have any exciting opportunities for me!
+Hello there 👋
+
+👋 Hey! I am Vipul Damor,
+
+Android Developer with 6+ years of experience. and published more than 100+ apps in google playstore. My expertise includes Android, Flutter, Kotlin, Java, XML, Jetpack Compose, MVVM, Clean Architecture, and Dagger Hilt. I am passionate about creating robust and user-friendly mobile applications that deliver exceptional user experiences. Let's discuss more if you have any exciting opportunities for me!
 
 ## Personal Information
 
