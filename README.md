@@ -26,23 +26,37 @@ Android Developer with 7+ years of experience. and published more than 60+ apps 
 ### Android Developer & Flutter Developer
 **Eryushion Techsol Pvt. Ltd.** | Aug 2018 - Present
 
-Developed and maintained Android applications.Built cross-platform mobile apps using the Flutter framework.
+● Led full lifecycle development of native, hybrid Android, and Flutter
+applications using Java, Kotlin, and Jetpack Compose.
+● Managed client relationships, ensuring timely and on-budget project delivery.
+● Oversaw resource allocation and collaborated with cross-functional teams to
+optimize productivity and project outcomes.
+
 
 ### Android Developer
 **Grubbrr inc** | Nov 2017 - jul 2018
 
-Developed and maintained Android applications
+● Led the full lifecycle development of Android native applications for hotel
+management solutions, including KIOSK self-ordering, Order Management,
+and KDS Kitchen Display Systems.
+● Utilized expertise in Java, Git, and Wi-Fi data synchronization, collaborating
+on local database management, API integration, shared preferences, and
+payment gateway implementation.
 
 ### Android Developer
 **Poojara Telecom Pvt. Ltd.** | Jul 2016 - Oct 2017
 
-Developed and maintained Android applications
+● Designed and developed Android native applications for employee
+management, attendance systems, and product dealing solutions.
+● Ensured timely project delivery while effectively managing operational
+resources to optimize productivity and maintain high-quality standards.
 
 
 ### Android Developer
 **The DynamicIT** | Jan 2016 - Apr 2016
 
-Android Trainee also Developed and maintained Android applications
+● Explored advanced concepts in Android architecture.
+● Developed foundational skills in native Android app development.
 
 
 ## Projects
@@ -60,6 +74,8 @@ An Android app for selling MobileProducts, and Employee Management
 - **GitHub:** [github.com/VipulDamor](https://github.com/VipulDamor)
 - **Twitter:** [twitter.com/damorvips](https://twitter.com/damorvips)
 - **Stackoverflow** [https://stackoverflow.com/users/14285339/damor-vipul]
+- **Portfolio** [https://vipuldamor.my.canva.site/]
+- **goole playstore** [https://play.google.com/store/search?q=1993developers&c=apps]
 
 ## License
 
