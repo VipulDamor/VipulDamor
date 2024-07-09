@@ -46,9 +46,9 @@ payment gateway implementation.
 ### Android Developer
 **Poojara Telecom Pvt. Ltd.** | Jul 2016 - Oct 2017
 
-● Designed and developed Android native applications for employee
+- Designed and developed Android native applications for employee
 management, attendance systems, and product dealing solutions.
-● Ensured timely project delivery while effectively managing operational
+- Ensured timely project delivery while effectively managing operational
 resources to optimize productivity and maintain high-quality standards.
 
 
