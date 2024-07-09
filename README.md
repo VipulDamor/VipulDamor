@@ -25,12 +25,12 @@ Android Developer with 7+ years of experience. and published more than 60+ apps 
 
 ### Android Developer & Flutter Developer
 **Eryushion Techsol Pvt. Ltd.** | Aug 2018 - Present
-
-● Led full lifecycle development of native, hybrid Android, and Flutter
-applications using Java, Kotlin, and Jetpack Compose.
-● Managed client relationships, ensuring timely and on-budget project delivery.
-● Oversaw resource allocation and collaborated with cross-functional teams to
-optimize productivity and project outcomes.
+    
+    - Led full lifecycle development of native, hybrid Android, and Flutter
+      applications using Java, Kotlin, and Jetpack Compose.
+    - Managed client relationships, ensuring timely and on-budget project delivery.
+    - Oversaw resource allocation and collaborated with cross-functional teams to
+      optimize productivity and project outcomes.
 
 
 ### Android Developer
