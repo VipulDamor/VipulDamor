@@ -34,10 +34,10 @@ Android Developer with 7+ years of experience. and published more than 60+ apps 
 ### Android Developer
 **Grubbrr inc** | Nov 2017 - jul 2018
 
-● Led the full lifecycle development of Android native applications for hotel
+- Led the full lifecycle development of Android native applications for hotel
 management solutions, including KIOSK self-ordering, Order Management,
 and KDS Kitchen Display Systems.
-● Utilized expertise in Java, Git, and Wi-Fi data synchronization, collaborating
+- Utilized expertise in Java, Git, and Wi-Fi data synchronization, collaborating
 on local database management, API integration, shared preferences, and
 payment gateway implementation.
 
@@ -53,8 +53,8 @@ resources to optimize productivity and maintain high-quality standards.
 ### Android Developer
 **The DynamicIT** | Jan 2016 - Apr 2016
 
-● Explored advanced concepts in Android architecture.
-● Developed foundational skills in native Android app development.
+- Explored advanced concepts in Android architecture.
+- Developed foundational skills in native Android app development.
 
 
 ## Projects
