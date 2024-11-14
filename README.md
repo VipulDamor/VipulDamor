@@ -42,7 +42,7 @@ on local database management, API integration, shared preferences, and
 payment gateway implementation.
 
 ### Android Developer
-**Poojara Telecom Pvt. Ltd.** | Jul 2016 - Oct 2017
+**HOCL Pvt. Ltd.** | Jul 2016 - Oct 2017
 
 - Designed and developed Android native applications for employee
 management, attendance systems, and product dealing solutions.
