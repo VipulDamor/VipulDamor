@@ -11,7 +11,7 @@ Android Developer with 7+ years of experience. Also worked on and published more
 
 - **Name:** Vipul Damor
 - **Tagline:** Passionate Android Developer
-- **Email:** vipuldamor@gmail.com
+#- **Email:** vipuldamor@gmail.com
 
 
 ## Skills
