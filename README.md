@@ -38,6 +38,6 @@ Whether you're looking for an experienced Android developer or simply want to di
 ### Next Steps
 1. **Clone or Fork my repositories** and contribute if you'd like to collaborate. 🚀
 2. **Follow me** to stay updated with my latest projects and contributions. 🎉
-3. **Reach out** via email, LinkedIn, or Twitter if you want to discuss freelance opportunities or project collaborations. 📬
+
 
 Thanks for visiting my profile! Stay awesome and keep coding! 💻✨
